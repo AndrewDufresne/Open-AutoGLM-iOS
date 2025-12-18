@@ -1,10 +1,10 @@
-# 📱 Open iPhone Agent — 开放的 iPhone 智能体模型与控制框架
+# 📱 Open iPhone Agent — 开放的 iPhone 智能体框架
 
 > 本项目基于开源项目 **[Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)** 与 **[PiKVM](https://github.com/pikvm/pikvm)** 二次开发。在此向原项目致敬。
 
 > 模型与推理配置参考并基于智谱 AI（Z.ai）开源的 Open-AutoGLM。目的是将开源多模态大模型能力延伸到 iPhone 操作场景，打造一个可扩展、可替换底层硬件的 **iPhone 智能体（Agent）框架**，以解锁“AI 驱动的 iPhone 自动化”场景。
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115739805620452&bvid=BV1UDqpBTEcc&cid=34818622149&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+[![Demo Video](resources/Demo.gif)](https://www.bilibili.com/video/BV1UDqpBTEcc)
 ---
 
 ## 当前状态（Important）
