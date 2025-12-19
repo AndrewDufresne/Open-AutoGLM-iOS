@@ -95,7 +95,7 @@ iPhone（Shortcut 接收并执行）
 * 在 `CopyToClipboard` 中配置服务器地址为本机/服务端的 `FastAPI` IP:PORT（用于接收由 Agent 发出的内容/指令）。
 <div style="display:flex; gap:10px;">
   <img src="resources/Shortcuts-CopyToClipboard.png" width="30%">
-  <img src="resources/Shortcuts-OpenAPP.png" width="30%">
+  <img src="resources/Shortcuts-OpenAPP.PNG" width="30%">
 </div>
 ---
 
